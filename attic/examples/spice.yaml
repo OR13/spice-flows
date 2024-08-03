@@ -1,0 +1,20 @@
+points:
+
+  - id: A
+    title: A
+    description: Node A
+
+  - id: B
+    title: B
+    description: Node B
+
+  - id: C
+    title: C
+    description: Node C
+
+paths:
+
+  - id: 0
+    title: Zero
+    description: Flow Zero
+    path: [A, B, C]
